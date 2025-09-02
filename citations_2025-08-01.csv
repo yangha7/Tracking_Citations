@@ -1,0 +1,231 @@
+Title,Year,Citations
+DIALS as a toolkit,2022,15
+DIALS as a toolkit,2023,31
+DIALS as a toolkit,2024,40
+DIALS as a toolkit,2025,21
+xia2. multiplex: a multi-crystal data-analysis pipeline,2022,3
+xia2. multiplex: a multi-crystal data-analysis pipeline,2023,20
+xia2. multiplex: a multi-crystal data-analysis pipeline,2024,22
+xia2. multiplex: a multi-crystal data-analysis pipeline,2025,17
+DIALS: implementation and evaluation of a new integration package,2018,34
+DIALS: implementation and evaluation of a new integration package,2019,116
+DIALS: implementation and evaluation of a new integration package,2020,167
+DIALS: implementation and evaluation of a new integration package,2021,184
+DIALS: implementation and evaluation of a new integration package,2022,188
+DIALS: implementation and evaluation of a new integration package,2023,188
+DIALS: implementation and evaluation of a new integration package,2024,190
+DIALS: implementation and evaluation of a new integration package,2025,125
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2020,10
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2021,28
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2022,29
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2023,31
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2024,31
+Scaling diffraction data in the DIALS software package: algorithms and new approaches for multi-crystal scaling,2025,28
+Chemical crystallography by serial femtosecond X-ray diffraction,2022,9
+Chemical crystallography by serial femtosecond X-ray diffraction,2023,24
+Chemical crystallography by serial femtosecond X-ray diffraction,2024,39
+Chemical crystallography by serial femtosecond X-ray diffraction,2025,36
+Gold Standard for macromolecular crystallography diffraction data,2021,1
+Gold Standard for macromolecular crystallography diffraction data,2022,4
+Gold Standard for macromolecular crystallography diffraction data,2023,6
+Gold Standard for macromolecular crystallography diffraction data,2024,5
+Gold Standard for macromolecular crystallography diffraction data,2025,4
+A space for lattice representation and clustering,2020,2
+A space for lattice representation and clustering,2021,2
+A space for lattice representation and clustering,2022,3
+A space for lattice representation and clustering,2023,7
+Selling reduction versus Niggli reduction for crystallographic lattices,2019,1
+Selling reduction versus Niggli reduction for crystallographic lattices,2020,3
+Selling reduction versus Niggli reduction for crystallographic lattices,2021,3
+Selling reduction versus Niggli reduction for crystallographic lattices,2022,4
+Selling reduction versus Niggli reduction for crystallographic lattices,2023,11
+Selling reduction versus Niggli reduction for crystallographic lattices,2024,1
+Transactions from the 69th Annual Meeting of the American Crystallographic Association: Data best practices—current state and future needs,2021,1
+Best practices for high data-rate macromolecular crystallography (HDRMX),2020,2
+Best practices for high data-rate macromolecular crystallography (HDRMX),2021,2
+Best practices for high data-rate macromolecular crystallography (HDRMX),2022,1
+Best practices for high data-rate macromolecular crystallography (HDRMX),2023,5
+Best practices for high data-rate macromolecular crystallography (HDRMX),2024,2
+Best practices for high data-rate macromolecular crystallography (HDRMX),2025,3
+Beyond integration: modeling every pixel to obtain better structure factors from stills,2020,1
+Beyond integration: modeling every pixel to obtain better structure factors from stills,2021,1
+Beyond integration: modeling every pixel to obtain better structure factors from stills,2022,0
+Beyond integration: modeling every pixel to obtain better structure factors from stills,2023,7
+Beyond integration: modeling every pixel to obtain better structure factors from stills,2024,5
+Improving signal strength in serial crystallography with DIALS geometry refinement,2018,1
+Improving signal strength in serial crystallography with DIALS geometry refinement,2019,11
+Improving signal strength in serial crystallography with DIALS geometry refinement,2020,8
+Improving signal strength in serial crystallography with DIALS geometry refinement,2021,10
+Improving signal strength in serial crystallography with DIALS geometry refinement,2022,11
+Improving signal strength in serial crystallography with DIALS geometry refinement,2023,13
+Improving signal strength in serial crystallography with DIALS geometry refinement,2024,12
+Improving signal strength in serial crystallography with DIALS geometry refinement,2025,7
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2023,6
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2024,8
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2025,3
+SAD phasing of XFEL data depends critically on the error model,2020,3
+SAD phasing of XFEL data depends critically on the error model,2021,3
+SAD phasing of XFEL data depends critically on the error model,2022,3
+SAD phasing of XFEL data depends critically on the error model,2023,7
+SAD phasing of XFEL data depends critically on the error model,2024,3
+SAD phasing of XFEL data depends critically on the error model,2025,2
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2020,3
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2021,4
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2022,1
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2023,4
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2024,7
+Towards the spatial resolution of metalloprotein charge states by detailed modeling of XFEL crystallographic diffraction,2025,2
+Converting three-space matrices to equivalent six-space matrices for Delone scalars in S6,2021,1
+ExaFEL: extreme-scale real-time data processing for X-ray free electron laser science,2025,2
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2023,6
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2024,8
+Real‐time XFEL data analysis at SLAC and NERSC: A trial run of nascent exascale experimental data analysis,2025,3
+Robust background modelling in DIALS,2017,3
+Robust background modelling in DIALS,2018,13
+Robust background modelling in DIALS,2019,8
+Robust background modelling in DIALS,2020,8
+Robust background modelling in DIALS,2021,8
+Robust background modelling in DIALS,2022,2
+Robust background modelling in DIALS,2023,11
+Robust background modelling in DIALS,2024,2
+Robust background modelling in DIALS,2025,7
+Diffraction-geometry refinement in the DIALS framework,2016,6
+Diffraction-geometry refinement in the DIALS framework,2017,28
+Diffraction-geometry refinement in the DIALS framework,2018,47
+Diffraction-geometry refinement in the DIALS framework,2019,24
+Diffraction-geometry refinement in the DIALS framework,2020,26
+Diffraction-geometry refinement in the DIALS framework,2021,20
+Diffraction-geometry refinement in the DIALS framework,2022,18
+Diffraction-geometry refinement in the DIALS framework,2023,12
+Diffraction-geometry refinement in the DIALS framework,2024,17
+Diffraction-geometry refinement in the DIALS framework,2025,9
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2015,16
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2016,24
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2017,24
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2018,13
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2019,23
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2020,9
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2021,7
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2022,10
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2023,9
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2024,7
+Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals,2025,1
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2015,1
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2016,2
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2017,2
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2018,1
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2019,3
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2020,2
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2021,0
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2022,3
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2023,5
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2024,5
+Indexing amyloid peptide diffraction from serial femtosecond crystallography: new algorithms for sparse patterns,2025,7
+Improved crystal orientation and physical properties from single-shot XFEL stills,2015,6
+Improved crystal orientation and physical properties from single-shot XFEL stills,2016,9
+Improved crystal orientation and physical properties from single-shot XFEL stills,2017,6
+Improved crystal orientation and physical properties from single-shot XFEL stills,2018,11
+Improved crystal orientation and physical properties from single-shot XFEL stills,2019,5
+Improved crystal orientation and physical properties from single-shot XFEL stills,2020,5
+Improved crystal orientation and physical properties from single-shot XFEL stills,2021,1
+Improved crystal orientation and physical properties from single-shot XFEL stills,2022,2
+Improved crystal orientation and physical properties from single-shot XFEL stills,2023,4
+Improved crystal orientation and physical properties from single-shot XFEL stills,2024,2
+Improved crystal orientation and physical properties from single-shot XFEL stills,2025,5
+New methods for indexing multi-lattice diffraction data,2014,1
+New methods for indexing multi-lattice diffraction data,2015,7
+New methods for indexing multi-lattice diffraction data,2016,8
+New methods for indexing multi-lattice diffraction data,2017,21
+New methods for indexing multi-lattice diffraction data,2018,11
+New methods for indexing multi-lattice diffraction data,2019,4
+New methods for indexing multi-lattice diffraction data,2020,11
+New methods for indexing multi-lattice diffraction data,2021,4
+New methods for indexing multi-lattice diffraction data,2022,5
+New methods for indexing multi-lattice diffraction data,2023,4
+New methods for indexing multi-lattice diffraction data,2024,5
+New methods for indexing multi-lattice diffraction data,2025,5
+dxtbx: The diffraction experiment toolbox,2014,1
+dxtbx: The diffraction experiment toolbox,2015,2
+dxtbx: The diffraction experiment toolbox,2016,4
+dxtbx: The diffraction experiment toolbox,2017,1
+dxtbx: The diffraction experiment toolbox,2018,4
+dxtbx: The diffraction experiment toolbox,2019,2
+dxtbx: The diffraction experiment toolbox,2020,3
+dxtbx: The diffraction experiment toolbox,2021,0
+dxtbx: The diffraction experiment toolbox,2022,4
+dxtbx: The diffraction experiment toolbox,2023,4
+dxtbx: The diffraction experiment toolbox,2024,2
+dxtbx: The diffraction experiment toolbox,2025,2
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2014,21
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2015,30
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2016,28
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2017,21
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2018,18
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2019,12
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2020,12
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2021,7
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2022,8
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2023,10
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2024,7
+Accurate macromolecular structures using minimal measurements from X-ray free-electron lasers,2025,9
+The DIALS framework for integration software,2014,1
+The DIALS framework for integration software,2015,4
+The DIALS framework for integration software,2016,18
+The DIALS framework for integration software,2017,22
+The DIALS framework for integration software,2018,19
+The DIALS framework for integration software,2019,10
+The DIALS framework for integration software,2020,4
+The DIALS framework for integration software,2021,3
+The DIALS framework for integration software,2022,3
+The DIALS framework for integration software,2023,2
+The DIALS framework for integration software,2024,5
+The DIALS framework for integration software,2025,2
+New Python-based methods for data processing,2013,1
+New Python-based methods for data processing,2014,18
+New Python-based methods for data processing,2015,22
+New Python-based methods for data processing,2016,18
+New Python-based methods for data processing,2017,14
+New Python-based methods for data processing,2018,12
+New Python-based methods for data processing,2019,14
+New Python-based methods for data processing,2020,12
+New Python-based methods for data processing,2021,6
+New Python-based methods for data processing,2022,8
+New Python-based methods for data processing,2023,6
+New Python-based methods for data processing,2024,14
+New Python-based methods for data processing,2025,4
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2017,1
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2018,1
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2019,3
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2020,6
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2021,2
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2022,6
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2023,7
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2024,5
+Determination of Patterson group symmetry from sparse multi-crystal data sets in the presence of an indexing ambiguity,2025,4
+Background modelling of diffraction data in the presence of ice rings,2017,1
+Background modelling of diffraction data in the presence of ice rings,2018,3
+Background modelling of diffraction data in the presence of ice rings,2019,1
+Background modelling of diffraction data in the presence of ice rings,2020,1
+Background modelling of diffraction data in the presence of ice rings,2021,3
+Background modelling of diffraction data in the presence of ice rings,2022,3
+Background modelling of diffraction data in the presence of ice rings,2023,4
+Background modelling of diffraction data in the presence of ice rings,2024,1
+Background modelling of diffraction data in the presence of ice rings,2025,1
+How to use DIALS to process chemical crystallography 3D ED rotation data from pixel array detectors,2025,1
+A standard data format for 3DED/MicroED,2024,2
+A standard data format for 3DED/MicroED,2025,2
+Electron diffraction data processing with DIALS,2018,3
+Electron diffraction data processing with DIALS,2019,23
+Electron diffraction data processing with DIALS,2020,21
+Electron diffraction data processing with DIALS,2021,35
+Electron diffraction data processing with DIALS,2022,20
+Electron diffraction data processing with DIALS,2023,14
+Electron diffraction data processing with DIALS,2024,15
+Electron diffraction data processing with DIALS,2025,9
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2019,1
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2020,2
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2021,3
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2022,4
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2023,8
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2024,6
+Processing serial crystallographic data from XFELs or synchrotrons using the cctbx. xfel GUI,2025,4
